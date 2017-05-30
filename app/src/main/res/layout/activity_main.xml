@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context="com.sunh.comutils.MainActivity">
+    <com.sunh.comutils.view.TopBarUtils
+        android:id="@+id/topbar"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        app:center_title_text="个人中心"
+        app:left_btn_text="回退"
+        app:right_btn_text="保存"
+        >
+
+    </com.sunh.comutils.view.TopBarUtils>
+
+
+</RelativeLayout>

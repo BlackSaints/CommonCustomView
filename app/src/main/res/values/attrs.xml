@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <declare-styleable name="TopBarUtils">
+        <attr name="top_bg" format="color"/>
+        <attr name="left_btn_bg" format="reference"/>
+        <attr name="left_btn_text" format="string"/>
+        <attr name="left_btn_text_size" format="dimension"/>
+        <attr name="left_btn_text_color" format="color"/>
+        <attr name="center_title_text" format="string"/>
+        <attr name="center_title_text_size" format="dimension"/>
+        <attr name="center_title_text_color" format="color"/>
+        <attr name="right_btn1_bg" format="reference"/>
+        <attr name="right_btn2_bg" format="reference"/>
+        <attr name="right_btn3_bg" format="reference"/>
+        <attr name="right_btn_text" format="string"/>
+        <attr name="right_btn_text_size" format="dimension"/>
+        <attr name="right_btn_text_color" format="color"/>
+    </declare-styleable>
+</resources>
